@@ -1,10 +1,7 @@
 # SayCheese v1.2
-## Author: https://github.com/thelinuxchoice/saycheese
-## Twitter: https://twitter.com/linux_choice
+## Author: https://github.com/rsdraju99/saycheese
 
 Take webcam shots from target just sending a malicious link
-
-![sch](https://user-images.githubusercontent.com/34893261/81830116-10add880-9512-11ea-946e-3643db8c1bba.png)
 
 # How it works?
 <p>The tool generates a malicious HTTPS page using Ngrok Port Forwarding method, and a javascript code to perform cam requests using MediaDevices.getUserMedia. </p>
@@ -20,11 +17,7 @@ Usage of SayCheese for attacking targets without prior mutual consent is illegal
 ## Installing (Tested on Kali Linux 2020.1):
 
 ```
-git clone https://github.com/thelinuxchoice/saycheese
+git clone https://github.com/rsdraju99/saycheese
 cd saycheese
 bash saycheese.sh
 ```
-### Donate!
-Pay me a coffee:
-### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
